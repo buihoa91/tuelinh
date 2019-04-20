@@ -10,17 +10,40 @@ $(document).ready(function () {
             click--;
         }
     });
-    if($("#slider1").length > 0){
-        $("#slider1").owlCarousel({
-            autoPlay         : true,
-            navigation       : true,
-            pagination       : false,
-            paginationNumbers: false,
-            paginationSpeed  : 1000,
-            singleItem       : true,
-            autoHeight       : true
-        });
-    }
+    // if($("#slider1").length > 0){
+    //     $("#slider1").owlCarousel({
+    //         autoPlay         : true,
+    //         navigation       : true,
+    //         pagination       : false,
+    //         paginationNumbers: false,
+    //         paginationSpeed  : 1000,
+    //         singleItem       : true,
+    //         autoHeight       : true
+    //     });
+    // }
+    // if($("#slider1").length > 0){
+    //     $("#slider1").slick({
+    //         dots: false,
+    //         infinite: true,
+    //         speed: 300,
+    //         slidesToShow: 1,
+    //         slidesToScroll: 0,
+    //         adaptiveHeight: true
+    //     });
+    // }
+    $('#slider1').slick();
+    // if($("#slider2").length > 0){
+    //     $("#slider2").owlCarousel({
+    //         autoPlay         : true,
+    //         navigation       : true,
+    //         pagination       : true,
+    //         paginationNumbers: false,
+    //         paginationSpeed  : 1000,
+    //         singleItem       : true,
+    //         autoHeight       : true,
+    //         dotsContainer: '#customDots',
+    //     });
+    // }
 });//end document
 
 function showPopupVideo(btnCall, popupName) {
