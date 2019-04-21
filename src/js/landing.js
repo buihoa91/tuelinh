@@ -10,40 +10,60 @@ $(document).ready(function () {
             click--;
         }
     });
-    // if($("#slider1").length > 0){
-    //     $("#slider1").owlCarousel({
-    //         autoPlay         : true,
-    //         navigation       : true,
-    //         pagination       : false,
-    //         paginationNumbers: false,
-    //         paginationSpeed  : 1000,
-    //         singleItem       : true,
-    //         autoHeight       : true
-    //     });
-    // }
-    // if($("#slider1").length > 0){
-    //     $("#slider1").slick({
-    //         dots: false,
-    //         infinite: true,
-    //         speed: 300,
-    //         slidesToShow: 1,
-    //         slidesToScroll: 0,
-    //         adaptiveHeight: true
-    //     });
-    // }
-    $('#slider1').slick();
-    // if($("#slider2").length > 0){
-    //     $("#slider2").owlCarousel({
-    //         autoPlay         : true,
-    //         navigation       : true,
-    //         pagination       : true,
-    //         paginationNumbers: false,
-    //         paginationSpeed  : 1000,
-    //         singleItem       : true,
-    //         autoHeight       : true,
-    //         dotsContainer: '#customDots',
-    //     });
-    // }
+    $(".flipster").flipster({
+        style: 'carousel',
+        enableNav: true,
+        navPosition: 'after'
+    });
+    if($("#slider1").length > 0){
+        $('#slider1').slick();
+    }
+    $('#slider2').slick({
+        slidesToShow: 1,
+        slidesToScroll: 1,
+        arrows: false,
+        fade: false,
+        asNavFor: '.slider-nav'
+    });
+    $('.slider-nav').slick({
+        slidesToShow: 6,
+        slidesToScroll: 0,
+        asNavFor: '.slider-for',
+        dots: true,
+        centerMode: true,
+        focusOnSelect: true
+    });
+    $('#slider3').slick({
+        infinite: true,
+        slidesToShow: 3,
+        slidesToScroll: 3,
+        dots: true,
+        responsive: [
+            {
+                breakpoint: 1040,
+                settings: {
+                    slidesToShow: 2,
+                    slidesToScroll: 2,
+                    infinite: true,
+                    dots: true
+                }
+            },
+            {
+                breakpoint: 600,
+                settings: {
+                    slidesToShow: 1,
+                    slidesToScroll:1
+                }
+            },
+            {
+                breakpoint: 480,
+                settings: {
+                    slidesToShow: 1,
+                    slidesToScroll: 1
+                }
+            }
+            ]
+    });
 });//end document
 
 function showPopupVideo(btnCall, popupName) {
