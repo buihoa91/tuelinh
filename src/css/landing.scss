@@ -684,6 +684,33 @@ $background: #009247;
             }
           }
         }
+        .slick-arrow{
+          background: url("../images/next-arrow.jpg") no-repeat;
+          -webkit-background-size: contain;
+          background-size: contain;
+          width: 23px;
+          height: 24px;
+          position: absolute;
+          top: 0;
+          margin-top: 0;
+          border-radius: 100%;
+          &.slick-prev{
+            -webkit-transform: rotate(180deg);
+            -moz-transform: rotate(180deg);
+            -ms-transform: rotate(180deg);
+            -o-transform: rotate(180deg);
+            transform: rotate(180deg);
+            left: 0;
+          }
+          &.slick-next{
+            left: 30px;
+            -webkit-transform: rotate(0deg);
+            -moz-transform: rotate(0deg);
+            -ms-transform: rotate(0deg);
+            -o-transform: rotate(0deg);
+            transform: rotate(0deg);
+          }
+        }
       }
       .slider-nav{
         width: vw(1040px);

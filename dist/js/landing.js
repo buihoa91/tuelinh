@@ -1,5 +1,18 @@
 $(document).ready(function () {
     showPopupVideo('.play-btn','.popupVideo');
+
+    FlipClock.Lang.Custom = { days:'Ngày', hours:'Giờ', minutes:'Phút', seconds:'Giây' };
+    var opts = {
+        clockFace: 'DailyCounter',
+        countdown: true,
+        language: 'Custom',
+        showSeconds: true
+    };
+    var countdown = 1557594000 - ((new Date().getTime())/1000); // from: 04/20/2019 12:00 pm +0700
+    countdown = Math.max(1, countdown);
+    $('.clock').FlipClock(countdown, opts);
+
+
     var click = 0;
     $(".btn-fix").click(function () {
         if(click == 0){
@@ -24,7 +37,7 @@ $(document).ready(function () {
         autoplay: 1,
         slidesToShow: 1,
         slidesToScroll: 1,
-        arrows: false,
+        arrows: true,
         fade: false,
         asNavFor: '.slider-nav'
     });
