@@ -16,9 +16,12 @@ $(document).ready(function () {
         navPosition: 'after'
     });
     if($("#slider1").length > 0){
-        $('#slider1').slick();
+        $('#slider1').slick({
+            autoplay: 1,
+        });
     }
     $('#slider2').slick({
+        autoplay: 1,
         slidesToShow: 1,
         slidesToScroll: 1,
         arrows: false,
@@ -34,6 +37,7 @@ $(document).ready(function () {
         focusOnSelect: true
     });
     $('#slider3').slick({
+        autoplay: 1,
         infinite: true,
         slidesToShow: 3,
         slidesToScroll: 3,
