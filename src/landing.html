@@ -5,7 +5,8 @@
     <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
     <title>Landing | White</title>
     <link rel="stylesheet" href="css/bootstrap.min.css">
-    <link rel="stylesheet" href="css/countdown.css">
+    <!--<link rel="stylesheet" href="css/countdown.css">-->
+    <link rel="stylesheet" href="css/flipclock.css">
     <link rel="stylesheet" href="css/jquery.flipster.css">
     <link rel="stylesheet" href="css/slick-theme.css">
     <link rel="stylesheet" href="css/slick.css">
@@ -15,18 +16,16 @@
     <div class="wrapper">
         <header>
             <div id="slider1">
-                <img src="images/bg1.jpg" alt="" class="imgFull">
-                <img src="images/bg1.jpg" alt="" class="imgFull">
-                <img src="images/bg1.jpg" alt="" class="imgFull">
-                <img src="images/bg1.jpg" alt="" class="imgFull">
-                <img src="images/bg1.jpg" alt="" class="imgFull">
+                <div style="background: url(images/bg1.jpg) center top no-repeat;-webkit-background-size: cover;background-size: cover;"></div>
+                <div style="background: url(images/bg1.jpg) center top no-repeat;-webkit-background-size: cover;background-size: cover;"></div>
+                <div style="background: url(images/bg1.jpg) center top no-repeat;-webkit-background-size: cover;background-size: cover;"></div>
+                <div style="background: url(images/bg1.jpg) center top no-repeat;-webkit-background-size: cover;background-size: cover;"></div>
+                <div style="background: url(images/bg1.jpg) center top no-repeat;-webkit-background-size: cover;background-size: cover;"></div>
             </div>
             <div class="time-box">
                 <div class="text1">Chỉ còn</div>
                 <div class="contain">
-                    <div class="main-example">
-                        <div class="countdown-container" data-timer="2019/09/05" id="main-example"></div>
-                    </div>
+                    <div class="clock"></div>
                 </div>
                 <div class="text2">Ngày 12 tháng 5 năm 2019</div>
             </div>
@@ -483,6 +482,21 @@
 <script src="js/SmoothScroll.js"></script>
 <script src="js/jquery.flipster.js"></script>
 <script src="js/underscore-min.js"></script>
-<script src="js/countdown.js"></script>
+<!--<script src="js/countdown.js"></script>-->
+<script src="js/flipclock.js"></script>
 <script src="js/slick.js"></script>
 <script src="js/landing.js"></script>
+<script type="text/javascript">
+    $(function(){
+        FlipClock.Lang.Custom = { days:'Ngày', hours:'Giờ', minutes:'Phút', seconds:'Giây' };
+        var opts = {
+            clockFace: 'DailyCounter',
+            countdown: true,
+            language: 'Custom',
+            showSeconds: true
+        };
+        var countdown = 1557594000 - ((new Date().getTime())/1000); // from: 04/20/2019 12:00 pm +0700
+        countdown = Math.max(1, countdown);
+        $('.clock').FlipClock(countdown, opts);
+    });
+</script>
