@@ -11,9 +11,12 @@ $(document).ready(function () {
     $('.clock').FlipClock(countdown, opts);
 
     $(".flipster").flipster({
-        style: 'carousel',
-        enableNav: true,
-        navPosition: 'after',
+        // style: 'carousel',
+        // enableNav: true,
+        // navPosition: 'after',
+        nav: 'after',
+        style: 'flat',
+        spacing: -0.5
     });
     if($("#slider1").length > 0){
         $('#slider1').slick({
