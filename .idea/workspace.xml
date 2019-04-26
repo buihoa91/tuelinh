@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8c30b31e-eb8d-4973-8d7e-be8c6cd6f79e" name="Default" comment="WALKING">
-      <change afterPath="$PROJECT_DIR$/src/css/jquery.flipster.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/css/jquery.flipster2.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/js/jquery.flipster.min.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/css/jquery.flipster.css" beforeDir="false" afterPath="$PROJECT_DIR$/dist/css/jquery.flipster.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/css/landing.css" beforeDir="false" afterPath="$PROJECT_DIR$/dist/css/landing.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/js/landing.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/js/landing.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/landing.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/landing.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/landing.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/landing.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/js/landing.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/landing.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/landing.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/landing.html" afterDir="false" />
     </list>
@@ -25,11 +19,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/landing.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="31" column="30" lean-forward="true" selection-start-line="31" selection-start-column="30" selection-end-line="31" selection-end-column="30" />
+            <state relative-caret-position="510">
+              <caret line="383" column="28" selection-start-line="383" selection-start-column="28" selection-end-line="383" selection-end-column="110" />
               <folding>
                 <element signature="n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -69,20 +63,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/js/landing.js">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/walking2/landing.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+            <state relative-caret-position="435">
+              <caret line="383" column="110" selection-start-line="383" selection-start-column="110" selection-end-line="383" selection-end-column="110" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://D:/js/jquery-flipster-master2/src/jquery.flipster.js">
+        <entry file="file://$PROJECT_DIR$/src/js/landing.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="113" column="15" selection-start-line="113" selection-start-column="15" selection-end-line="113" selection-end-column="44" />
+            <state relative-caret-position="272">
+              <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -90,11 +84,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/css/landing.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="104">
-              <caret line="523" column="31" selection-start-line="523" selection-start-column="31" selection-end-line="523" selection-end-column="31" />
-              <folding>
-                <element signature="e#13001#13377#0" />
-              </folding>
+            <state relative-caret-position="384">
+              <caret line="1616" column="28" lean-forward="true" selection-start-line="1616" selection-start-column="28" selection-end-line="1616" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -119,9 +110,9 @@
       <find>checked</find>
       <find>getInf</find>
       <find>block8</find>
-      <find>block10</find>
       <find>đơn</find>
       <find>flipster</find>
+      <find>block10</find>
     </findStrings>
     <replaceStrings>
       <replace>btn-play.pg</replace>
@@ -137,9 +128,10 @@
         <option value="$PROJECT_DIR$/test.txt" />
         <option value="$PROJECT_DIR$/src/css/countdown.scss" />
         <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/src/js/landing.js" />
         <option value="$PROJECT_DIR$/src/landing.html" />
         <option value="$PROJECT_DIR$/src/css/landing.scss" />
-        <option value="$PROJECT_DIR$/src/js/landing.js" />
+        <option value="$PROJECT_DIR$/walking2/landing.html" />
       </list>
     </option>
   </component>
@@ -167,11 +159,6 @@
             <path>
               <item name="walk_competition" type="b2602c69:ProjectViewProjectNode" />
               <item name="walk_competition" type="462c0819:PsiDirectoryNode" />
-              <item name="dist" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="walk_competition" type="b2602c69:ProjectViewProjectNode" />
-              <item name="walk_competition" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -179,6 +166,18 @@
               <item name="walk_competition" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="walk_competition" type="b2602c69:ProjectViewProjectNode" />
+              <item name="walk_competition" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="jquery.flipster.js" type="620a8d5e:NestingTreeNode" />
+            </path>
+            <path>
+              <item name="walk_competition" type="b2602c69:ProjectViewProjectNode" />
+              <item name="walk_competition" type="462c0819:PsiDirectoryNode" />
+              <item name="walking2" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -192,7 +191,7 @@
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
     <property name="js.buildTools.gulp.gulp_package_dir" value="$PROJECT_DIR$/node_modules/gulp" />
     <property name="js.eslint.eslintPackage" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../whitelanding" />
+    <property name="last_opened_file_path" value="D:/OpenServer529/domains/scms_new2" />
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
@@ -245,7 +244,8 @@
       <workItem from="1555830503367" duration="21052000" />
       <workItem from="1555898873576" duration="16823000" />
       <workItem from="1556078837203" duration="4450000" />
-      <workItem from="1556095409687" duration="4688000" />
+      <workItem from="1556095409687" duration="4781000" />
+      <workItem from="1556247182902" duration="355000" />
     </task>
     <task id="LOCAL-00001" summary="cai con cac">
       <created>1555752645156</created>
@@ -331,17 +331,31 @@
       <option name="project" value="LOCAL" />
       <updated>1556096402325</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="WALKING">
+      <created>1556102929074</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1556102929074</updated>
+    </task>
+    <task id="LOCAL-00014" summary="WALKING">
+      <created>1556102964606</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1556102964606</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="64826000" />
+    <option name="totallyTimeSpent" value="65274000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49919224" visible="true" weight="0.26279318" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49919224" visible="true" weight="0.26545843" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Gulp" order="2" sideWeight="0.50080776" side_tool="true" weight="0.25746268" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -443,22 +457,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/landing di bo/js/index.js" />
-    <entry file="file://$PROJECT_DIR$/src/js/jquery.flipster.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7106">
-          <caret line="418" selection-start-line="418" selection-end-line="418" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/css/jquery.flipster.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/jquery.flipster.min.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/jquery.flipster.min.css" />
     <entry file="file://$PROJECT_DIR$/src/css/jquery.flipster2.min.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -479,27 +481,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/landing.scss">
+    <entry file="file://$PROJECT_DIR$/src/js/jquery.flipster.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="523" column="31" selection-start-line="523" selection-start-column="31" selection-end-line="523" selection-end-column="31" />
+        <state>
           <folding>
-            <element signature="e#13001#13377#0" />
+            <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/js/landing.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+        <state relative-caret-position="272">
+          <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/landing.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="1616" column="28" lean-forward="true" selection-start-line="1616" selection-start-column="28" selection-end-line="1616" selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/landing.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="31" column="30" lean-forward="true" selection-start-line="31" selection-start-column="30" selection-end-line="31" selection-end-column="30" />
+        <state relative-caret-position="510">
+          <caret line="383" column="28" selection-start-line="383" selection-start-column="28" selection-end-line="383" selection-end-column="110" />
           <folding>
             <element signature="n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#style#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -535,6 +543,13 @@
             <element signature="n#style#0;n#div#0;n#div#7;n#div#1;n#div#0;n#div#6;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#8;n#div#1;n#div#0;n#div#6;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/walking2/landing.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="383" column="110" selection-start-line="383" selection-start-column="110" selection-end-line="383" selection-end-column="110" />
         </state>
       </provider>
     </entry>

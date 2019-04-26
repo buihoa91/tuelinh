@@ -14,6 +14,7 @@ $(document).ready(function () {
         // style: 'carousel',
         // enableNav: true,
         // navPosition: 'after',
+        loop:1,
         nav: 'after',
         style: 'flat',
         spacing: -0.5
