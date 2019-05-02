@@ -2,11 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8c30b31e-eb8d-4973-8d7e-be8c6cd6f79e" name="Default" comment="WALKING">
+      <change afterPath="$PROJECT_DIR$/dist/css/walking.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/css/walking.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/walking2/css/walking.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/walking2/css/walking.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/js/landing.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/js/landing.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/css/landing.css" beforeDir="false" afterPath="$PROJECT_DIR$/dist/css/landing.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/landing.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/landing.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/landing.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/landing.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/landing.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/landing.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/landing.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/landing.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/walking2.rar" beforeDir="false" afterPath="$PROJECT_DIR$/walking2.rar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/walking2/css/landing.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/walking2/css/landing.scss" beforeDir="false" afterPath="$PROJECT_DIR$/walking2/css/landing.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/walking2/landing.html" beforeDir="false" afterPath="$PROJECT_DIR$/walking2/landing.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,15 +30,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/landing.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="383" column="28" selection-start-line="383" selection-start-column="28" selection-end-line="383" selection-end-column="110" />
+            <state relative-caret-position="408">
+              <caret line="24" column="30" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="30" />
               <folding>
-                <element signature="n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#2;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#3;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#4;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#div#2;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#2;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#div#2;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#3;n#div#2;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#4;n#div#2;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#div#3;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#1;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#2;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#0;n#div#2;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#1;n#div#2;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" />
@@ -48,6 +58,8 @@
                 <element signature="n#style#0;n#div#0;n#div#4;n#div#1;n#div#3;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#5;n#div#1;n#div#3;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#div#4;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#5;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#6;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#0;n#div#6;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#6;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#6;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -58,25 +70,25 @@
                 <element signature="n#style#0;n#div#0;n#div#6;n#div#1;n#div#0;n#div#6;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#7;n#div#1;n#div#0;n#div#6;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#8;n#div#1;n#div#0;n#div#6;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#div#7;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#8;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#9;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/walking2/landing.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="383" column="110" selection-start-line="383" selection-start-column="110" selection-end-line="383" selection-end-column="110" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/js/landing.js">
+        <entry file="file://$PROJECT_DIR$/src/walking.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="15" />
+            <state relative-caret-position="357">
+              <caret line="25" column="34" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
+              <folding>
+                <element signature="n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#1;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#1;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -84,8 +96,83 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/css/landing.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
-              <caret line="1616" column="28" lean-forward="true" selection-start-line="1616" selection-start-column="28" selection-end-line="1616" selection-end-column="28" />
+            <state relative-caret-position="197">
+              <caret line="449" column="4" selection-start-line="449" selection-start-column="4" selection-end-line="589" selection-end-column="7" />
+              <folding>
+                <element signature="e#6622#7753#0" />
+                <element signature="e#7767#8420#0" />
+                <element signature="e#6630#6663#0" />
+                <element signature="e#6677#7006#0" />
+                <element signature="e#7039#7148#0" />
+                <element signature="e#7180#7285#0" />
+                <element signature="e#7317#7421#0" />
+                <element signature="e#9587#10718#0" />
+                <element signature="e#10732#11385#0" />
+                <element signature="e#9264#10013#0" />
+                <element signature="e#10026#10054#0" />
+                <element signature="e#10067#11231#0" />
+                <element signature="e#11262#11796#0" />
+                <element signature="e#11827#12358#0" />
+                <element signature="e#11864#12100#0" />
+                <element signature="e#12115#12352#0" />
+                <element signature="e#38709#42101#0" />
+                <element signature="e#39123#40255#0" />
+                <element signature="e#40290#41195#0" />
+                <element signature="e#41229#42020#0" />
+                <element signature="e#42054#42093#0" />
+                <element signature="e#42116#43594#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/walking2/css/landing.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="197">
+              <caret line="447" column="12" selection-start-line="447" selection-start-column="12" selection-end-line="447" selection-end-column="12" />
+              <folding>
+                <element signature="e#6622#7753#0" />
+                <element signature="e#7767#8420#0" />
+                <element signature="e#8433#8462#0" />
+                <element signature="e#8474#8779#0" />
+                <element signature="e#8810#8907#0" />
+                <element signature="e#8937#9030#0" />
+                <element signature="e#9060#9152#0" />
+                <element signature="e#9587#10718#0" />
+                <element signature="e#9787#10144#0" />
+                <element signature="e#10732#11385#0" />
+                <element signature="e#11084#11889#0" />
+                <element signature="e#11904#11936#0" />
+                <element signature="e#11951#13205#0" />
+                <element signature="e#13238#13830#0" />
+                <element signature="e#13863#14452#0" />
+                <element signature="e#13904#14166#0" />
+                <element signature="e#14183#14444#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/walking2/css/walking.scss">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/walking2/landing.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="282">
+              <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+              <folding>
+                <element signature="n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#1;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#2;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#div#2;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#3;n#div#2;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#4;n#div#2;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -106,13 +193,14 @@
       <find>https:</find>
       <find>block7</find>
       <find>slick-arrow</find>
-      <find>block1</find>
       <find>checked</find>
       <find>getInf</find>
       <find>block8</find>
       <find>đơn</find>
       <find>flipster</find>
       <find>block10</find>
+      <find>header</find>
+      <find>block1</find>
     </findStrings>
     <replaceStrings>
       <replace>btn-play.pg</replace>
@@ -131,6 +219,8 @@
         <option value="$PROJECT_DIR$/src/js/landing.js" />
         <option value="$PROJECT_DIR$/src/landing.html" />
         <option value="$PROJECT_DIR$/src/css/landing.scss" />
+        <option value="$PROJECT_DIR$/src/walking.blade.php" />
+        <option value="$PROJECT_DIR$/walking2/css/landing.scss" />
         <option value="$PROJECT_DIR$/walking2/landing.html" />
       </list>
     </option>
@@ -149,6 +239,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -164,26 +255,25 @@
             <path>
               <item name="walk_competition" type="b2602c69:ProjectViewProjectNode" />
               <item name="walk_competition" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="walk_competition" type="b2602c69:ProjectViewProjectNode" />
-              <item name="walk_competition" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-              <item name="jquery.flipster.js" type="620a8d5e:NestingTreeNode" />
+              <item name="walking2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="walk_competition" type="b2602c69:ProjectViewProjectNode" />
               <item name="walk_competition" type="462c0819:PsiDirectoryNode" />
               <item name="walking2" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="walk_competition" type="b2602c69:ProjectViewProjectNode" />
+              <item name="walk_competition" type="462c0819:PsiDirectoryNode" />
+              <item name="walking2" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="walking.scss" type="620a8d5e:NestingTreeNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -200,6 +290,7 @@
       <recent name="D:\outwork\walk_competition\src\js" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\outwork\walk_competition\walking2\css" />
       <recent name="D:\outwork\walk_competition\src\css" />
       <recent name="D:\outwork\walk_competition\src\images" />
       <recent name="D:\outwork\walk_competition" />
@@ -245,7 +336,11 @@
       <workItem from="1555898873576" duration="16823000" />
       <workItem from="1556078837203" duration="4450000" />
       <workItem from="1556095409687" duration="4781000" />
-      <workItem from="1556247182902" duration="355000" />
+      <workItem from="1556247182902" duration="1037000" />
+      <workItem from="1556250465613" duration="115000" />
+      <workItem from="1556250779708" duration="387000" />
+      <workItem from="1556263284376" duration="1010000" />
+      <workItem from="1556786681610" duration="1108000" />
     </task>
     <task id="LOCAL-00001" summary="cai con cac">
       <created>1555752645156</created>
@@ -345,17 +440,24 @@
       <option name="project" value="LOCAL" />
       <updated>1556102964606</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="WALKING">
+      <created>1556247558552</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1556247558553</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="65274000" />
+    <option name="totallyTimeSpent" value="68576000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49919224" visible="true" weight="0.26545843" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49919224" visible="true" weight="0.27665246" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Gulp" order="2" sideWeight="0.50080776" side_tool="true" weight="0.25746268" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -492,29 +594,51 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/js/landing.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="15" />
+        <state relative-caret-position="391">
+          <caret line="23" column="24" lean-forward="true" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/landing.scss">
+    <entry file="file://$PROJECT_DIR$/walking2/js/jquery.flipster.min.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="1616" column="28" lean-forward="true" selection-start-line="1616" selection-start-column="28" selection-end-line="1616" selection-end-column="28" />
+        <state relative-caret-position="17">
+          <caret line="1" column="49" lean-forward="true" selection-start-line="1" selection-start-column="49" selection-end-line="1" selection-end-column="49" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/write.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="14" lean-forward="true" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/layout.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="200" column="19" selection-start-line="200" selection-start-column="19" selection-end-line="200" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/landing.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="383" column="28" selection-start-line="383" selection-start-column="28" selection-end-line="383" selection-end-column="110" />
+        <state relative-caret-position="408">
+          <caret line="24" column="30" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="30" />
           <folding>
-            <element signature="n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#3;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#4;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#2;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#2;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#2;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#3;n#div#2;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#4;n#div#2;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#3;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#2;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#0;n#div#2;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#1;n#div#2;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" />
@@ -532,6 +656,8 @@
             <element signature="n#style#0;n#div#0;n#div#4;n#div#1;n#div#3;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#5;n#div#1;n#div#3;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#4;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#5;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#6;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#0;n#div#6;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#6;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#6;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -542,14 +668,109 @@
             <element signature="n#style#0;n#div#0;n#div#6;n#div#1;n#div#0;n#div#6;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#7;n#div#1;n#div#0;n#div#6;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#8;n#div#1;n#div#0;n#div#6;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#7;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#8;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#9;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/walking.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="25" column="34" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
+          <folding>
+            <element signature="n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/landing.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="449" column="4" selection-start-line="449" selection-start-column="4" selection-end-line="589" selection-end-column="7" />
+          <folding>
+            <element signature="e#6622#7753#0" />
+            <element signature="e#7767#8420#0" />
+            <element signature="e#6630#6663#0" />
+            <element signature="e#6677#7006#0" />
+            <element signature="e#7039#7148#0" />
+            <element signature="e#7180#7285#0" />
+            <element signature="e#7317#7421#0" />
+            <element signature="e#9587#10718#0" />
+            <element signature="e#10732#11385#0" />
+            <element signature="e#9264#10013#0" />
+            <element signature="e#10026#10054#0" />
+            <element signature="e#10067#11231#0" />
+            <element signature="e#11262#11796#0" />
+            <element signature="e#11827#12358#0" />
+            <element signature="e#11864#12100#0" />
+            <element signature="e#12115#12352#0" />
+            <element signature="e#38709#42101#0" />
+            <element signature="e#39123#40255#0" />
+            <element signature="e#40290#41195#0" />
+            <element signature="e#41229#42020#0" />
+            <element signature="e#42054#42093#0" />
+            <element signature="e#42116#43594#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/walking2/css/landing.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="447" column="12" selection-start-line="447" selection-start-column="12" selection-end-line="447" selection-end-column="12" />
+          <folding>
+            <element signature="e#6622#7753#0" />
+            <element signature="e#7767#8420#0" />
+            <element signature="e#8433#8462#0" />
+            <element signature="e#8474#8779#0" />
+            <element signature="e#8810#8907#0" />
+            <element signature="e#8937#9030#0" />
+            <element signature="e#9060#9152#0" />
+            <element signature="e#9587#10718#0" />
+            <element signature="e#9787#10144#0" />
+            <element signature="e#10732#11385#0" />
+            <element signature="e#11084#11889#0" />
+            <element signature="e#11904#11936#0" />
+            <element signature="e#11951#13205#0" />
+            <element signature="e#13238#13830#0" />
+            <element signature="e#13863#14452#0" />
+            <element signature="e#13904#14166#0" />
+            <element signature="e#14183#14444#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/walking2/css/walking.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/walking2/css/walking.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/walking.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="30" lean-forward="true" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/walking2/landing.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="383" column="110" selection-start-line="383" selection-start-column="110" selection-end-line="383" selection-end-column="110" />
+        <state relative-caret-position="282">
+          <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+          <folding>
+            <element signature="n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#2;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#2;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#3;n#div#2;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#4;n#div#2;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
